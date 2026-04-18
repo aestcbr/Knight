@@ -1,0 +1,12 @@
+{
+  "knights": [
+    {
+      "name": "Sir Lancelot",
+      "weapon": "Sword"
+    },
+    {
+      "name": "Sir Galahad",
+      "weapon": "Lance"
+    }
+  ]
+}
